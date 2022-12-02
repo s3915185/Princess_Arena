@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+li {
+    list-style-type: none;
+}
+.li_padding {
+    padding: 30px;
+    margin-right: 20px;
+    background-color: #282A3A;
+}
+img {
+    width: 800px;
+    height: 700px;
+ }
+
+ .booking_order_ul {
+    display: flex;
+    flex-direction: column;
+ }
+ a {
+    text-align: center;
+ }
+
+.text_color {
+    color: #FFF6BF;
+}
+
+.body_padding {
+    padding-left: 20px;
+}
+.text_info {
+    background-color: #333333;
+    width: 70%;
+    border-radius: 10px;
+}

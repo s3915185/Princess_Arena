@@ -1,0 +1,38 @@
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    width: 800px;
+    height: 700px;
+ }
+
+ .hotel_info {
+    background-color: #fdfdfd;
+ }
+
+ .booking_order_ul {
+    display: flex;
+    flex-direction: column;
+ }
+
+ a {
+    text-align: center;
+ }
+
+.text_color {
+    color: #FFF6BF;
+}
+.button {
+    padding: 10px;
+    border-radius: 15px;
+    color: #FFF6BF;
+    background-color: #282A3A;
+}
+
+.modal-ku {
+    width: 750px;
+    margin: auto;
+  }

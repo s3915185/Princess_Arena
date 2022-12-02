@@ -1,0 +1,24 @@
+ul {
+    display: flex;
+    justify-content: space-between;
+}
+a {
+    text-decoration: none;
+}
+
+header {
+    padding-right: 20px;
+}
+body {
+    background-image: url('https://thearena.vn/storage/sliders/1.jpg');
+}
+
+.text_color {
+    color: #FFF6BF;
+}
+.text-button {
+    padding: 20px;
+    border-radius: 15px;
+    color: #FFF6BF;
+    background-color: #282A3A;
+}
